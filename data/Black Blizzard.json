@@ -3,16 +3,22 @@
     "name": "Black Blizzard",
     "author": "Krmal",
     "creators": ["Krmal"],
-    "verifier": "Krmal (BonkSquad Victors: Gearface, Sbeb)",
+    "verifier": "Krmal",
     "verification": "https://www.youtube.com/watch?v=41QxGX5piws",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
         {
+            "user": "Gearface",
+            "link": "https://www.youtube.com/watch?v=41QxGX5piws",
+            "percent": 100,
+            "hz": 360
+        },
+                {
             "user": "Sbeb",
             "link": "https://www.youtube.com/watch?v=wwmGVu_kiT8",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
