@@ -3,10 +3,16 @@
     "name": "Ethereal Artifice",
     "author": "Zeroya",
     "creators": ["Zeroya and More"],
-    "verifier": "Mycrafted (BonkSquad Victor: Stufs27)",
+    "verifier": "Mycrafted",
     "verification": "https://www.youtube.com/watch?v=OBSW7HXE77c",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+                                {
+            "user": "Stufs27",
+            "link": "https://www.youtube.com/watch?v=OBSW7HXE77c",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
