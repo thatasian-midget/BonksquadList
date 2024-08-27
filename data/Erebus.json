@@ -3,16 +3,10 @@
     "name": "Erebus",
     "author": "BoldStep",
     "creators": ["Rustam, ILRELL"],
-    "verifier": "BoldStep",
+    "verifier": "Sbeb",
     "verification": "https://www.youtube.com/watch?v=gspnHcVuL30",
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
-                        {
-            "user": "Sbeb",
-            "link": "https://www.youtube.com/watch?v=gspnHcVuL30",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
