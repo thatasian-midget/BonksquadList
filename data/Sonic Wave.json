@@ -3,10 +3,16 @@
     "name": "Sonic Wave",
     "author": "lSunix",
     "creators": ["Cyclic"],
-    "Victor": "lSunix (BonkSquad Victor: Sbeb)",
+    "verifier": "lSunix",
     "verification": "https://www.youtube.com/watch?v=X3D4aRNEhbI",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+                {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=X3D4aRNEhbI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
