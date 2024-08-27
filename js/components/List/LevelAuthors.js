@@ -1,6 +1,6 @@
 export default {
     props: {
-        "BonkSquad Victor": {
+        author: {
             type: String,
             required: true,
         },
@@ -18,13 +18,13 @@ export default {
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
-                    <span>{{ "BonkSquad Victor" }}</span>
+                    <span>{{ author }}</span>
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
                 <div class="type-title-sm">Creator</div>
                 <p class="type-body">
-                    <span>{{ "BonkSquad Victor" }}</span>
+                    <span>{{ author }}</span>
                 </p>
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
@@ -46,14 +46,14 @@ export default {
             </template>
             <div class="type-title-sm">Publisher</div>
             <p class="type-body">
-                <span>{{ "BonkSquad Victor" }}</span>
+                <span>{{ author }}</span>
             </p>
         </div>
     `,
 
     computed: {
         selfVerified() {
-            return this."BonkSquad Victor" === this.verifier && this.creators.length === 0;
+            return this.author === this.verifier && this.creators.length === 0;
         },
     },
 };
