@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Sample Level 3",
+    "author": "Krmal",
+    "creators": ["Krmal"],
+    "verifier": "Krmal (BonkSquad Victors: Gearface, Sbeb)",
+    "verification": "https://www.youtube.com/watch?v=41QxGX5piws",
+    "percentToQualify": "100",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=wwmGVu_kiT8",
+            "percent": 100,
+            "hz": 360
+        },
+    ]
+}
