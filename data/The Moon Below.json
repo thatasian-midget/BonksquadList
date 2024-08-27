@@ -3,10 +3,16 @@
     "name": "The Moon Below",
     "author": "Onvil",
     "creators": ["Onvil"],
-    "verifier": "maxis044 (BonkSquad Victor: SebTheNose)",
+    "verifier": "maxis044",
     "verification": "https://www.youtube.com/watch?v=_-vTdNwcQxY",
     "percentToQualify": "100",
     "password": "Copyable",
     "records": [
+                {
+            "user": "SebTheNose",
+            "link": "https://www.youtube.com/watch?v=_-vTdNwcQxY",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
