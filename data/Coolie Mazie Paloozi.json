@@ -1,0 +1,24 @@
+{
+    "id": 91267754,
+    "name": "Coolie Mazie Paloozi",
+    "author": "akunakunn",
+    "creators": ["akunakunn"],
+    "verifier": "BiDeapthBear",
+    "verification": "http://www.youtube.com/watch?v=lRtqt3KK25w",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+                {
+            "user": "Stufs27",
+            "link": "http://www.youtube.com/watch?v=lRtqt3KK25w",
+            "percent": 100,
+            "hz": 240
+        },
+                      {
+            "user": "AsianMidget",
+            "link": "https://www.youtube.com/watch?v=SCbYdKRGjBw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
