@@ -1,0 +1,24 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "lexycat",
+    "creators": ["lexycat, icedcave, stormfly"],
+    "verifier": "SebTheNose",
+    "verification": "https://www.youtube.com/watch?v=-XfjogJIHU4",
+    "percentToQualify": "100",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=uYGqsai8-OM",
+            "percent": 100,
+            "hz": 360
+        },
+              {
+            "user": "Stufs27",
+            "link": "https://www.youtube.com/watch?v=bR4PlYVZjys",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
