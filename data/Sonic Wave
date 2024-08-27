@@ -1,9 +1,12 @@
 {
-    "ID": 26681070,
-    "Name": "Sonic Wave",
-    "Publisher": ["lSunix"],
-    "Bonksquad Victors": "Sbeb",
-    "Completion": "https://www.youtube.com/watch?v=X3D4aRNEhbI",
+    "id": 57436521,
+    "name": "SAMPLELEVEL2",
+    "author": "Solo_Creator",
+    "creators": [],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
     "records": [
     ]
 }
