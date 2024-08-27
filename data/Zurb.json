@@ -1,0 +1,18 @@
+{
+    "id": 28220417,
+    "name": "Zurb",
+    "author": "ChaosJesus1338 (the publisher's name changes)",
+    "creators": ["NLW and More"],
+    "verifier": "AWESOMEME360",
+    "verification": "http://www.youtube.com/watch?v=CyRxztPW7VU",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+                {
+            "user": "AsianMidget",
+            "link": "http://www.youtube.com/watch?v=CyRxztPW7VU",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
