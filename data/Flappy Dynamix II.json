@@ -1,0 +1,18 @@
+{
+    "id": 71850733,
+    "name": "Flappy Dynamix II",
+    "author": "RadiationV2",
+    "creators": ["RadiationV2"],
+    "verifier": "AsianMidget",
+    "verification": "https://www.youtube.com/watch?v=e_GQbkNtKNQ",
+    "percentToQualify": "100",
+    "password": "free to copy",
+    "records": [
+                {
+            "user": "SebTheNose",
+            "link": "https://www.youtube.com/watch?v=z1Wp7R2HyNk",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
