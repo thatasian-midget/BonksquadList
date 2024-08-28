@@ -1,0 +1,18 @@
+{
+    "id": 76196489,
+    "name": "troll level",
+    "author": "lexycat",
+    "creators": ["lexycat, lena, glitchy"],
+    "verifier": "SebTheNose",
+    "verification": "https://www.youtube.com/watch?v=daUMMFrrdsc",
+    "percentToQualify": "100",
+    "password": "its something.",
+    "records": [
+                {
+            "user": "Stufs27",
+            "link": "https://www.youtube.com/watch?v=_VJ2e-xTUKs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
