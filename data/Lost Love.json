@@ -1,0 +1,24 @@
+{
+    "id": 85933508,
+    "name": "Lost Love",
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
+    "verifier": "SebTheNose",
+    "verification": "https://www.youtube.com/watch?v=2sffRcV0T2c",
+    "percentToQualify": "100",
+    "password": "sad face",
+    "records": [
+        {
+            "user": "Stufs27",
+            "link": "www.youtube.com/watch?v=9f9pwutkBZc",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Sbeb",
+            "link": "www.youtube.com/watch?v=G8u5HsDyEvw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
