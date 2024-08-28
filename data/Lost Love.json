@@ -8,15 +8,15 @@
     "percentToQualify": "100",
     "password": "sad face",
     "records": [
-        {
+                {
             "user": "Stufs27",
-            "link": "www.youtube.com/watch?v=9f9pwutkBZc",
+            "link": "https://www.youtube.com/watch?v=9f9pwutkBZc",
             "percent": 100,
             "hz": 240
         },
-              {
+                {
             "user": "Sbeb",
-            "link": "www.youtube.com/watch?v=G8u5HsDyEvw",
+            "link": "https://www.youtube.com/watch?v=G8u5HsDyEvw",
             "percent": 100,
             "hz": 240
         }
