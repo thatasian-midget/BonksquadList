@@ -1,0 +1,18 @@
+{
+    "id": 60284098,
+    "name": "Maybe Possibly Thing",
+    "author": "iNubble",
+    "creators": ["iNubble"],
+    "verifier": "SebTheNose",
+    "verification": "https://www.youtube.com/watch?v=0fi3yUkfgkA",
+    "percentToQualify": "100",
+    "password": "its something",
+    "records": [
+                {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=vrRB3nXORlI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
