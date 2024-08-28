@@ -1,0 +1,24 @@
+{
+    "id": 89807521,
+    "name": "FISH FISH GODMODE",
+    "author": "whoiskeve",
+    "creators": ["whoiskeve"],
+    "verifier": "SebTheNose",
+    "verification": "https://www.youtube.com/watch?v=s0kWx6AQ9UI",
+    "percentToQualify": "100",
+    "password": "horny fish",
+    "records": [
+                {
+            "user": "Stufs27",
+            "link": "https://www.youtube.com/watch?v=IefpmZElElE",
+            "percent": 100,
+            "hz": 240
+        }
+                      {
+            "user": "AsianMidget",
+            "link": "www.youtube.com/watch?v=fy5AkKK1jfM",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
