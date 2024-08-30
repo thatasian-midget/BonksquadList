@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "idk and idc",
     "records": [
+                        {
+            "user": "sushiboys1",
+            "link": "https://www.youtube.com/watch?v=A_-yJK12q3Q",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
