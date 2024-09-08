@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "if i say it",
     "records": [
+                    {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=5krCntntOts",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
