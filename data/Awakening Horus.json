@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "789 smth",
     "records": [
+        {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=-mOx-Zn-ky0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
