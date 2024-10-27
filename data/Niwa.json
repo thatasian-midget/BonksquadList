@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "why ask me",
     "records": [
+        {
+            "user": "DangerNator",
+            "link": "https://www.youtube.com/watch?v=v1loIkYS-OA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
