@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=HZyIwZdvHr0",
             "percent": 100,
             "hz": 360
+        },
+                      {
+            "user": "DangerNator",
+            "link": "https://www.youtube.com/watch?v=ETXpTw06d-o",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
