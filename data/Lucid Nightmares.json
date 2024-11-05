@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "maybe",
     "records": [
+                    {
+            "user": "sushiboys1",
+            "link": "https://www.youtube.com/watch?v=CN2YZcBV0ls",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
