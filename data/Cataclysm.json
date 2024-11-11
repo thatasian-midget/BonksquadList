@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=dEgHfZc1BfA",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "wavelog",
+            "link": "https://www.youtube.com/watch?v=TF8AoqGPqPA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
