@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "christmas",
     "records": [
+              {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=ZBYqj81lzm8",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
