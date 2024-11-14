@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "the grinch",
     "records": [
+                    {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=DH5mHrdHnQI",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
