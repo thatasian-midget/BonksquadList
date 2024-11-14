@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "the name maybe",
     "records": [
+        {
+            "user": "Skyehi",
+            "link": "https://www.youtube.com/watch?v=_M30a4sCqTw",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }
