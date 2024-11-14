@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "i got no time",
     "records": [
+              {
+            "user": "Skyehi",
+            "link": "https://www.youtube.com/watch?v=83IMIpfKoC4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
