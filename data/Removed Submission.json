@@ -6,7 +6,13 @@
     "verifier": "AsianMidget",
     "verification": "https://www.youtube.com/watch?v=7gTIOr3HqSM",
     "percentToQualify": "100",
-    "password": "fuck you",
+    "password": "fuck you brokendeck",
     "records": [
+              {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=LHEIMlLvIQs",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
