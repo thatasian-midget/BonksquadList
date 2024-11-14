@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "search it up",
     "records": [
+                {
+            "user": "Skyehi",
+            "link": "https://www.youtube.com/watch?v=Ckd5eRqC388",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
