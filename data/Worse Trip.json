@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "uptown funk",
     "records": [
+              {
+            "user": "Skyehi",
+            "link": "https://www.youtube.com/watch?v=WcqXNaOxJ-Y",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
