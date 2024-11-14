@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "love or money",
     "records": [
+                {
+            "user": "Skyehi",
+            "link": "https://www.youtube.com/watch?v=vbpAZCC5i3I",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
