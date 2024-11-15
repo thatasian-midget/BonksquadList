@@ -1,1 +1,18 @@
-
+{
+    "id": 57023074,
+    "name": "Castling",
+    "author": "Meroo",
+    "creators": ["Meroo"],
+    "verifier": "Sbeb",
+    "verification": "https://www.youtube.com/watch?v=ogLqs09V7e8",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+              {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=BEN5xzZrFpg",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
