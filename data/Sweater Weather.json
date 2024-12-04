@@ -1,1 +1,18 @@
-
+{
+    "id": 81148582 ,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    "creators": ["VelYT"],
+    "verifier": "Sbeb",
+    "verification": "https://www.youtube.com/watch?v=IxFG4kbVFxo&t=42s",
+    "percentToQualify": "100",
+    "password": "bisexuality",
+    "records": [
+              {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=BEN5xzZrFpg",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
