@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "idfk",
     "records": [
+                {
+            "user": "Quantium",
+            "link": "https://youtu.be/V0N_la8--w4?si=zZwyLsQI8XXR-kf_",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
