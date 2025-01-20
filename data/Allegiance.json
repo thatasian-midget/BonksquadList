@@ -19,6 +19,18 @@
             "link": "https://www.youtube.com/watch?v=IpeFygJUtjw",
             "percent": 100,
             "hz": 144
+        },
+              {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=J7CB3xVRgDk",
+            "percent": 100,
+            "hz": 360
+        },
+                      {
+            "user": "wavelog",
+            "link": "https://www.youtube.com/watch?v=ayvw7aNg1so",
+            "percent": 100,
+            "hz": 260
         }
     ]
 }
