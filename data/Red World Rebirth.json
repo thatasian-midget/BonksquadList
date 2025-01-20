@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "playboi carti",
     "records": [
+                      {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=_etpB-pjGyM",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
