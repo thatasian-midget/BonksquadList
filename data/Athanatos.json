@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "check urself smh",
     "records": [
+                      {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=FpklIpZjqvQ",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
