@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "sonic wave copy",
     "records": [
+                    {
+            "user": "sushiboys1",
+            "link": "https://www.youtube.com/watch?v=VvbFK_8ouwE",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
