@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=yQTKekF_z5U",
             "percent": 100,
             "hz": 144
+        },
+              {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=tP_90XPQ_5Q",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
