@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=SiZr72wfu6s",
             "percent": 100,
             "hz": 60
+        },
+                {
+            "user": "not_jerri",
+            "link": "https://www.youtube.com/watch?v=p1HQlALJ3SY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
