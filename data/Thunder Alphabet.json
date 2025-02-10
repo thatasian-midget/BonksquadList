@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "who knows!",
     "records": [
+                {
+            "user": "not_jerri",
+            "link": "https://www.youtube.com/watch?v=DRBd_F_M2RE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
