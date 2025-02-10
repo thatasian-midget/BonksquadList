@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "$20",
     "records": [
+                {
+            "user": "AsianMidget",
+            "link": "https://www.youtube.com/watch?v=V0-y5XAwzms",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
