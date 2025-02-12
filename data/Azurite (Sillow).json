@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=3dP3J-zbzq4",
             "percent": 100,
             "hz": 144
+        },
+                {
+            "user": "ghosty1000",
+            "link": "https://www.youtube.com/watch?v=dsNMBLALxsg&t=90s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
