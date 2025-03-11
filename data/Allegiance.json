@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=-ChV4_ksZV0&t=20s",
             "percent": 100,
             "hz": 240
-        }        
+        },
+                    {
+            "user": "DangerNator",
+            "link": "https://youtu.be/Mmi_r28mtYY",
+            "percent": 100,
+            "hz": 280
+        }     
     ]
 }
