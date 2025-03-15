@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=8tpC29EdQ3k",
             "percent": 100,
             "hz": 288
+        },
+            {
+            "user": "Skyehi",
+            "link": "https://www.youtube.com/watch?v=i8-LyUgmVpA",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
