@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "BEFORE YOU WERE BORN",
     "records": [
+            {
+            "user": "Twirlyst",
+            "link": "https://www.youtube.com/watch?v=8tpC29EdQ3k",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
