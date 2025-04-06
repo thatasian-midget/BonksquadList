@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=Xp4OQDPLkD0",
             "percent": 100,
             "hz": 144
+        },
+            {
+            "user": "ko_taotsu",
+            "link": "https://www.youtube.com/watch?v=d15go8_eMSA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
