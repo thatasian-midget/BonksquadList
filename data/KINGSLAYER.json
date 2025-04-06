@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "you tell me",
     "records": [
+            {
+            "user": "ko_taotsu",
+            "link": "https://www.youtube.com/watch?v=q9KvVIJHjao",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
