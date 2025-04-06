@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "JDHV NEVER CLEAR",
     "records": [
+            {
+            "user": "ko_taotsu",
+            "link": "https://www.youtube.com/watch?v=TALDwLDYSRo",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
