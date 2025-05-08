@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "wave level",
     "records": [
+            {
+            "user": "Stufs27",
+            "link": "https://www.youtube.com/watch?v=aHFcaIZQZJo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
