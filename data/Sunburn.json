@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "pinocchio",
     "records": [
+                    {
+            "user": "UrLocalGamer979",
+            "link": "https://www.youtube.com/watch?v=JbKa8bJgDdE",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
