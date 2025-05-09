@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=vrRB3nXORlI",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "Quantium",
+            "link": "https://youtu.be/aImCcwknvmE?si=Q95BATUQcbXgGulI",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
