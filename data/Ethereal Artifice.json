@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "likely js numbers",
     "records": [
+                        {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=XZf9V0gnFII",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
