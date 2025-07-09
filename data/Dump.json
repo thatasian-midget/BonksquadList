@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=zSNVvEQuRMc",
     "percentToQualify": 100,
     "password": "Show the man a pass and",
-    "records": [
+    "records": [                        
+                {
+            "user": "sushiboys1",
+            "link": "https://youtu.be/R8dob6iWJrk?si=N5_eU0vMBIwm5Tvn",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
