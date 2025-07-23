@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=A_-yJK12q3Q",
             "percent": 100,
             "hz": 300
+        },
+                        {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=DU7zHgxtndg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
