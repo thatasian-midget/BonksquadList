@@ -67,6 +67,12 @@
             "link": "https://www.youtube.com/watch?v=EDzUfvtjOdQ",
             "percent": 100,
             "hz": "CBF"
-        } 
+        },
+                {
+            "user": "Shiraraxi",
+            "link": "https://www.youtube.com/watch?v=EDzUfvtjOdQ",
+            "percent": 100,
+            "hz": "360"
+        }
     ]
 }
