@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "bisexuality",
     "records": [
+                {
+            "user": "Shiraraxi",
+            "link": "https://www.youtube.com/watch?v=c6DqKl8r9S4",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
