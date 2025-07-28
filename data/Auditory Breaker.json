@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "you think i know?",
     "records": [
+                {
+            "user": "Quantium",
+            "link": "https://www.youtube.com/watch?v=_boVaZO2CGo",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
