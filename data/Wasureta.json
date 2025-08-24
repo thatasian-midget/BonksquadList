@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "diddyblud",
     "records": [
+                      {
+            "user": "UrLocalGamer979",
+            "link": "https://www.youtube.com/watch?v=UN1D9-gvF_Q",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
