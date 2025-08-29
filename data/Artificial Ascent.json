@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "SebNeverClear",
     "records": [
+                        {
+            "user": "Quantium",
+            "link": "https://youtu.be/Ef8Acy16SlI?si=Hoj0AqEIa6eH0swO",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
