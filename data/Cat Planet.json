@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "figure it out",
     "records": [
+                {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=GYOmTzCqvK8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
