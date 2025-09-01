@@ -1,0 +1,18 @@
+{
+    "id": 86795510,
+    "name": "X0",
+    "author": "Mulpan",
+    "creators": ["InterChange and Mulpan"],
+    "verifier": "AsianMidget",
+    "verification": "http://www.youtube.com/watch?v=uj0HDyQCU8I",
+    "percentToQualify": 100,
+    "password": "shizzing shizzard",
+    "records": [
+                      {
+            "user": "sushiboys1",
+            "link": "https://www.youtube.com/watch?v=W2Z_IlfYvb4",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
