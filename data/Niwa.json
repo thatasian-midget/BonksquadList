@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=o4mDO9LiTVg",
             "percent": 100,
             "hz": "CBF"
+        },
+            {
+            "user": "vexenous1",
+            "link": "https://youtu.be/eHhkfB6eoSk",
+            "percent": 100,
+            "hz": "144"
         }
     ]
 }
