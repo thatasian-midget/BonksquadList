@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=o4mDO9LiTVg",
             "percent": 100,
             "hz": "CBF"
+        },
+            {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=OdjqMa6zytg",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
