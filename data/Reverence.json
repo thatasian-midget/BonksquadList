@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "RIPAthurauz",
     "records": [
+                    {
+            "user": "toasterguy83",
+            "link": "https://youtu.be/sWM1qKPkzqg?si=QdE1zZamAcmrZ3Ak",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
