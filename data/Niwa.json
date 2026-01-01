@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=OdjqMa6zytg",
             "percent": 100,
             "hz": "240"
+        },
+            {
+            "user": "vexenous1",
+            "link": "https://www.youtube.com/watch?v=EMWS9WCUXKs",
+            "percent": 100,
+            "hz": "144"
         }
     ]
 }
