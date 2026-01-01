@@ -3,14 +3,14 @@
     "name": "Balengu Vortex",
     "author": "lTemp",
     "creators": ["lTemp, ItsHybrid, Pennutoh"],
-    "verifier": "Gearface",
-    "verification": "https://youtu.be/HbVflHOHI9s",
+    "verifier": "AsianMidget",
+    "verification": "https://www.youtube.com/watch?v=V0-y5XAwzms",
     "percentToQualify": 100,
     "password": "$20",
     "records": [
                 {
-            "user": "AsianMidget",
-            "link": "https://www.youtube.com/watch?v=V0-y5XAwzms",
+            "user": "Gearface",
+            "link": "https://youtu.be/HbVflHOHI9s",
             "percent": 100,
             "hz": 240
         },
