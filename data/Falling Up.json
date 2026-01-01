@@ -3,13 +3,13 @@
     "name": "Falling Up",
     "author": "Krmal",
     "creators": ["Krmal"],
-    "verifier": "Gearface",
+    "verifier": "SebTheNose",
     "verification": "https://www.youtube.com/watch?v=BeOCDtAOaEM",
     "percentToQualify": "100",
     "password": "you tell me.",
     "records": [
                 {
-            "user": "SebTheNose",
+            "user": "Gearface",
             "link": "https://www.youtube.com/watch?v=7_pFU4fjKXo",
             "percent": 100,
             "hz": 144
