@@ -3,13 +3,13 @@
     "name": "Black Blizzard",
     "author": "Krmal",
     "creators": ["Krmal"],
-    "verifier": "Gearface",
-    "verification": "https://www.youtube.com/watch?v=41QxGX5piws",
+    "verifier": "Sbeb",
+    "verification": "https://www.youtube.com/watch?v=wwmGVu_kiT8",
     "percentToQualify": "100",
     "password": "idk",
     "records": [
                 {
-            "user": "Sbeb",
+            "user": "Gearface",
             "link": "https://www.youtube.com/watch?v=wwmGVu_kiT8",
             "percent": 100,
             "hz": 240
