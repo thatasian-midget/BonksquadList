@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "clutchup",
     "records": [
+                    {
+            "user": "Quantium",
+            "link": "https://youtu.be/QubAZKypDw8?si=5BXFPEn2wGY0lPHx",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
