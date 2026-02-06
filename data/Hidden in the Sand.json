@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "dih a dude",
     "records": [
+                {
+            "user": "dangernator",
+            "link": "https://youtu.be/-sDw8Avdi5I",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
