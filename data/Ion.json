@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Ionic isnt it",
     "records": [
+            {
+            "user": "paperbag44",
+            "link": "https://www.youtube.com/watch?v=ZIY_3vnG8Vk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
