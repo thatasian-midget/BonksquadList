@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "monkey",
     "records": [
+                {
+            "user": "paperbag44",
+            "link": "https://www.youtube.com/watch?v=i6Lcly0wApk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
