@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=_M_K-ikuCLI",
             "percent": 100,
             "hz": 60
+        },
+            {
+            "user": "paperbag44",
+            "link": "https://www.twitch.tv/videos/2465791973",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
