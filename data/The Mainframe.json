@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "the stufs' special",
     "records": [
+                        {
+            "user": "__hanabi__",
+            "link": "https://www.youtube.com/watch?v=16SSkm92iQ8",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
