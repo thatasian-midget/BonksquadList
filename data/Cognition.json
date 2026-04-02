@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "beatbox battle",
     "records": [
+          {
+            "user": "dangernator",
+            "link": "https://youtu.be/aDR2UlnC0uk?si=mHzWhqVAl0eIp3oe",
+            "percent": 100,
+            "hz": 560
+        }
     ]
 }
