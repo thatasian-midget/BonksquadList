@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "top 5 sexiest transformers",
     "records": [
+                }
+        {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=BiRoJgvO7yA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
