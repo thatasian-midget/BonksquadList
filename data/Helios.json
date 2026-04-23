@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "who cares",
     "records": [
+         {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=sXXlU-JEFeo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
