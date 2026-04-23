@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": ";3",
     "records": [
+                            {
+            "user": "meowington",
+            "link": "https://youtu.be/wAJFKfptGGk?si=Cai1oSZfugst1mdx",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
