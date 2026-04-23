@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "fireflies",
     "records": [
+         {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=daDUA-9Kjg0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
