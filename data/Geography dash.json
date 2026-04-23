@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "cookie is mine",
     "records": [
+                 {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=Gy1B-jMJHdg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
