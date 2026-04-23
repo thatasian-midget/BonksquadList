@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "jason relentlessly",
     "records": [
+                            {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=8uXLxa6uvyM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
