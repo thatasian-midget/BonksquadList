@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=PLOmWoDpoZ8",
             "percent": 100,
             "hz": 240
+        },
+                    {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=vKv2xnNxMqQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
