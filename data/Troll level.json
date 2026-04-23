@@ -55,6 +55,12 @@
             "link": "https://www.twitch.tv/videos/2465791973",
             "percent": 100,
             "hz": 240
+        },
+            {
+            "user": "meowington",
+            "link": "https://youtu.be/TF35vhQeQRc?si=q7AIJf4MZ8FGLYyn",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
