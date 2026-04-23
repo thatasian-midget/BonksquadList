@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=SddDGhevLB8",
             "percent": 100,
             "hz": "CBF"
+        },
+                        {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=TWg2V-nmezw",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
