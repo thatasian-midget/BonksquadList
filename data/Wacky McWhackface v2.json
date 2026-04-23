@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "acu on crack",
     "records": [
+                              {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=ZXzfCpqKHhQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
