@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "My name is David",
     "records": [
+                      {
+            "user": "__hanabi__",
+            "link": "https://www.youtube.com/watch?v=wBUWu2BWzLA",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
