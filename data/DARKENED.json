@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "watch out for the wave!",
     "records": [
+        {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=BfIe3vkshdE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
