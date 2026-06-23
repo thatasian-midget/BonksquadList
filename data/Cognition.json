@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "beatbox battle",
     "records": [
+           {
+            "user": "sushiboys1",
+            "link": "https://www.youtube.com/watch?v=Q9LsuJdqh68",
+            "percent": 100,
+            "hz": "CBF"
+        },
           {
             "user": "dangernator",
             "link": "https://youtu.be/aDR2UlnC0uk?si=mHzWhqVAl0eIp3oe",
