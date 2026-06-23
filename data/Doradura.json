@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=3KWdhl_8puQ",
             "percent": 100,
             "hz": 240
+        },
+                        {
+            "user": "__hanabi__",
+            "link": "https://www.youtube.com/watch?v=o9OK0fhbyn8",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
