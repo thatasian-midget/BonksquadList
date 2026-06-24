@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=jXNZQIGmPFs",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "Fun Friday",
+            "link": "https://www.youtube.com/watch?v=TzO5uJq91t4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
