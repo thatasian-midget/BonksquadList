@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "idk, boobies",
     "records": [
+                {
+            "user": "paperbag44",
+            "link": "https://www.youtube.com/watch?v=GfWHhSWNm3o",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
