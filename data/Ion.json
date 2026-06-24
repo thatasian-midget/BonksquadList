@@ -3,8 +3,8 @@
     "name": "Ion",
     "author": "shmigels",
     "creators": ["shmigels"],
-    "verifier": "SebTheNose",
-    "verification": "https://youtu.be/Z_6jHUZxLuk?si=Cav1rD5h8sBUzHb5",
+    "verifier": "!false",
+    "verification": "https://www.youtube.com/watch?v=hlM6g-zR0Qc",
     "percentToQualify": "100",
     "password": "Ionic isnt it",
     "records": [
@@ -15,8 +15,8 @@
             "hz": 240
         },
             {
-            "user": "!false",
-            "link": "https://www.youtube.com/watch?v=hlM6g-zR0Qc",
+            "user": "SebTheNose",
+            "link": "https://www.youtube.com/watch?v=Z_6jHUZxLuk",
             "percent": 100,
             "hz": 240
         }
