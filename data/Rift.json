@@ -1,0 +1,18 @@
+{
+    "id": 106905149,
+    "name": "Rift",
+    "author": "HazelSZL",
+    "creators": ["HazelSZL"],
+    "verifier": "!false",
+    "verification": "https://www.youtube.com/watch?v=F5OqFMCYD6E",
+    "percentToQualify": "100",
+    "password": "atomic bunghole",
+    "records": [
+        {
+            "user": "paperbag44",
+            "link": "https://www.youtube.com/watch?v=AgRi_5jLVmY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
