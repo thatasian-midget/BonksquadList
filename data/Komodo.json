@@ -3,10 +3,16 @@
     "name": "Komodo",
     "author": "Espii",
     "creators": ["Espii"],
-    "verifier": "SebTheNose",
-    "verification": "https://youtu.be/K2C96xNL7T4?si=yr_Vg_jPg-9wszfG",
+    "verifier": "!false",
+    "verification": "www.youtube.com/watch?v=ZBBsEhYPqb4",
     "percentToQualify": 100,
     "password": "VortroxRaid",
     "records": [
+           {
+            "user": "SebTheNose",
+            "link": "https://www.youtube.com/watch?v=K2C96xNL7T4",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
