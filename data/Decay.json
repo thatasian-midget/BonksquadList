@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "latemory",
     "records": [
+                        {
+            "user": "SebTheNose",
+            "link": "https://youtu.be/woRe08ro_Os?si=qjsugBcUxwQ5YHNq",
+            "percent": 100,
+            "hz": 144
+        },
+                        {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=woRe08ro_Os",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
