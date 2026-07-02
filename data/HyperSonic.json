@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "no click bum",
     "records": [
+            {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=shON-dVs2iA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
