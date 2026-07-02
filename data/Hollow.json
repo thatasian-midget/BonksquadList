@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "hard ending",
     "records": [
+                {
+            "user": "meowington",
+            "link": "https://www.youtube.com/watch?v=r12vOUBGMFQ",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
