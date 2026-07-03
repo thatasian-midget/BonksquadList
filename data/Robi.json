@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "shipshipbuffer",
     "records": [
+                    {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=q3FvbaJbLFQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
