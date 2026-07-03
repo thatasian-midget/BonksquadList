@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "best level EVER",
     "records": [
+         {
+            "user": "Webuo",
+            "link": "https://www.youtube.com/watch?v=MkksZkxIsZ0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
