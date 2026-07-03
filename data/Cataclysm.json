@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=G_anKMTm5PU",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "nightytime",
+            "link": "https://www.youtube.com/watch?v=xRlC1V3dJkI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
