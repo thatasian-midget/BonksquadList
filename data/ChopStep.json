@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "W ENDING!!!",
     "records": [
+                            {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=j7vXpAIE3_k",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
