@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=he-mC_tZdrY",
             "percent": 100,
             "hz": 240
+        },
+            {
+            "user": "SebTheNose",
+            "link": "https://www.youtube.com/watch?v=mX69_0dzb1c",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
