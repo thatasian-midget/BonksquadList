@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "io poopoo",
     "records": [
+                    {
+            "user": "__hanabi__",
+            "link": "https://www.youtube.com/watch?v=UrtmDTSKKEk",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
