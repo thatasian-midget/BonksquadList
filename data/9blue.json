@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=B0T5gIsfytc",
             "percent": 100,
             "hz": 360
+        },
+              {
+            "user": "Starlacc",
+            "link": "https://www.youtube.com/watch?v=fEEJnN_IR6o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
