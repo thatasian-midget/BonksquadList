@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "bomb",
     "records": [
+        {
+            "user": "Starlacc",
+            "link": "https://www.youtube.com/watch?v=rm8__f280pA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
