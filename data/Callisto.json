@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "best level ever??",
     "records": [
+                {
+            "user": "moonyohz",
+            "link": "https://www.youtube.com/watch?v=-q_v_adoP9Q",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
