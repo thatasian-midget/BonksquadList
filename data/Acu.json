@@ -133,6 +133,12 @@
             "link": "https://www.youtube.com/watch?v=6qg6R4EULLw",
             "percent": 100,
             "hz": 120
+        },
+                {
+            "user": "Starlacc",
+            "link": "https://www.youtube.com/watch?v=ZRxojrhGY2U",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
