@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "kill goldenne",
     "records": [
+                {
+            "user": "!false",
+            "link": "https://www.youtube.com/watch?v=k-S8lnQEvhM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
