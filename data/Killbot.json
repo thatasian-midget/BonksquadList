@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "UFObot",
     "records": [
+           {
+            "user": "__hanabi__",
+            "link": "https://www.youtube.com/watch?v=gg5swSNhVUE",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
