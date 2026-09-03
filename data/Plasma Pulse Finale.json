@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Do you have a job?",
     "records": [
+        {
+            "user": "sushiboys1",
+            "link": "https://www.youtube.com/watch?v=nVZ-kVZE63Y",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
