@@ -1,0 +1,18 @@
+{
+    "id": 95764848,
+    "name": "Mizureta",
+    "author": "dutchiee",
+    "creators": ["dutchiee and More"],
+    "verifier": "moonyohz",
+    "verification": "https://www.youtube.com/watch?v=Cl-00q7YS-s",
+    "percentToQualify": "100",
+    "password": "mizumizumizu",
+    "records": [
+                        {
+            "user": "Sbeb",
+            "link": "https://www.youtube.com/watch?v=kgRaPgpVQos",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
