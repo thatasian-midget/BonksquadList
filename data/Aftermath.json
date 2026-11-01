@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "apocapocapoc",
     "records": [
+                {
+            "user": "Starlacc",
+            "link": "https://www.youtube.com/watch?v=7Ob7h-4G72Q",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
