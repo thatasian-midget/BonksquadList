@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "GG FALSE",
     "records": [
+                {
+            "user": "AsianMidget",
+            "link": "https://www.youtube.com/watch?v=p3nUeuUjowU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
