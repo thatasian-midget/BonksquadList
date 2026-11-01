@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "???",
     "records": [
+                        {
+            "user": "Starlacc",
+            "link": "https://www.youtube.com/watch?v=1g6g4mQpuJE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
