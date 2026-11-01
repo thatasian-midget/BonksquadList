@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "thespikeat98",
     "records": [
+                {
+            "user": "moonyohz",
+            "link": "https://www.youtube.com/watch?v=ox6W_rV8dRs",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
